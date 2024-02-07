@@ -1,5 +1,12 @@
 # Serverless auto-generated GraphQL API with AWS AppSync and PostGraphile
 
+
+
+KEY THING: npm i --legacy-peer-deps then npm run update by triggering this lambda function: AppSyncWithPostgraphileStack-providerFnAF7CD54C-30gAFLby1xIJ
+
+
+
+
 ![A diagram of the architecture solution Overview](./overview.png "Solution Overview")
 
 This repo provides a CDK-based solution that allows you to create an [AWS AppSync](https://aws.amazon.com/appsync/) API from a defined Postgres database in AWS RDS.
